@@ -1,5 +1,7 @@
 # Combinatorial Optimization & Constraint Programming
 
+_Developed for the Intelligent Systems Techniques course (Técnicas de los Sistemas Inteligentes, 2025-26), Computer Science and Mathematics double degree, University of Granada._
+
 A collection of mathematical models solving Constraint Satisfaction Problems (CSP) and Constrained Optimization Problems (COP) using MiniZinc. The repository demonstrates operational research techniques, focusing on search space reduction, symmetry breaking, and performance benchmarking.
 
 ### Tech Stack
